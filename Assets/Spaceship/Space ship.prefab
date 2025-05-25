@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -2143996211, guid: 6db405b741859c741b898141b216a7be, type: 3}
+  m_Sprite: {fileID: -386298329, guid: 49f20f915021adb4394a1694c8ed2d7e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -183,9 +183,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameManager: {fileID: 0}
   bulletPrefab: {fileID: 1256860387263146417, guid: 422c5eb89ba7c4f48b7d152d05d8d503, type: 3}
-  meteor: {fileID: 140341338984253185, guid: 54f74eb359ed3b44db0bba82dd022e58, type: 3}
   speedUp: {fileID: 8998465506845085022, guid: 7fdc4c891e56bf34eb3bdf0b4f5cde31, type: 3}
+  bonusSound: {fileID: 0}
+  bullet1: {fileID: 0}
+  bullet2: {fileID: 0}
+  bullet3: {fileID: 0}
   bullet: {fileID: -218846722614319727, guid: 422c5eb89ba7c4f48b7d152d05d8d503, type: 3}
   explosion: {fileID: 2899186873647789471, guid: 9712b53a1ab159e4e8f7e6613d3c7a2c, type: 3}
   reloadTime: 0.5
-  bonusPickUp: {fileID: 8300000, guid: 6796c129fc6f80a4db501f1ce6f2b5e2, type: 3}

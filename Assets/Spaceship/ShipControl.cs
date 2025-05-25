@@ -23,10 +23,9 @@ public class ShipControl : MonoBehaviour
     private float sizeOfBullet = 1f;
 
     float elapsedTime = 0f;
-
     private void Start()
     {
-
+        //Input.simulateMouseWithTouches = true;
     }
 
     private void Update()

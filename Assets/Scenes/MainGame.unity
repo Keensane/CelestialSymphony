@@ -7920,6 +7920,10 @@ PrefabInstance:
       propertyPath: gameManager
       value: 
       objectReference: {fileID: 578349656}
+    - target: {fileID: 5761243610124934893, guid: 82eac2ef98ee5154294ab9d80f3de536, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -386298329, guid: 49f20f915021adb4394a1694c8ed2d7e, type: 3}
     - target: {fileID: 6191079885252040800, guid: 82eac2ef98ee5154294ab9d80f3de536, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
